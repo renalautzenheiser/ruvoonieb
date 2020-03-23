@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://coojainoh.malermeister-lessenich.de/sitemap.xml
